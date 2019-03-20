@@ -1,0 +1,146 @@
+.card {
+  position: relative;
+  min-width: 380px;
+  min-height: 530px;
+  /*background-color: red;*/
+  background-image: url('./fire2.jpg');
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 0px 15px 2px rgba(0,0,0,0.2);
+  border-radius: 10px;
+}
+
+.card__content-wrapper {
+  max-width: 350px;
+  min-height: 500px;
+  border: 1px solid rgba(0,0,0,0.3);
+  background-color: rgba(225, 186, 65, 0.91);
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 20px;
+}
+.card__btn {
+  width: 30px;
+  height: 30px;
+  border: 1px solid rgba(0,0,0,0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+}
+.card__btn:active {
+  transform: translateY(2px);
+}
+.card__btn--active {
+  outline: 3px solid black;
+}
+.card__btn-new {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.card__btn-close {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.card__wrapper {
+  width: 100%;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 0;
+  /*border: 1px solid green;*/
+}
+.card__name-wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card__name-edit {
+  width: 100%;
+  display: flex;
+}
+.card__name {
+  width: 100%;
+  padding: 5px 0;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+.card__name-input {
+  width: 100%;
+  padding: 5px 0;
+  margin: 0 5px 0 50px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+.card__btn-save-name {
+  width: 60px;
+}
+.card__weapon-btn, .card__style-btn {
+  width: 50px;
+  height: 50px;
+  margin-left: 10px;
+}
+.card__reload-btn {
+  width: 180px;
+}
+.card__description-wrapper {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.card__description {
+  width: 100%;
+  /*border: 1px solid blue;*/
+  padding: 5px 10px;
+  text-align: center;
+}
+.card__focus-word {
+  font-size: 1.1em;
+  font-weight: bold;
+  text-align: center;
+}
+.card__weapon-btn,
+.card__style-btn {
+  background-repeat: no-repeat;
+  background-size: 90%;
+  background-position: center center;
+}
+.card__slashing {
+  background-image: url('./sword.svg');
+}
+.card__piercing {
+  background-image: url('./spear.svg');
+}
+.card__blunt {
+  background-image: url('./hammer.svg');
+}
+
+.card__power {
+  background-image: url('./power.svg');
+}
+
+.card__finesse {
+  background-image: url('./finesse.svg');
+}
+
+.card__range {
+  background-image: url('./bow.svg');
+}

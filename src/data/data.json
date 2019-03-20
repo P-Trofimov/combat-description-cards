@@ -1,0 +1,2392 @@
+[
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "contorting",
+    "nonlethal": "Contorting to avoid a counterattack, you snap your weapon into the enemy...",
+    "lethal": "... twisting and contorting, you confound your foe, sending them to their grave in a mist of pain and confusion"
+  }, 
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "snap",
+    "nonlethal": "You feel, more than hear, something snap deep within your foe...",
+    "lethal": "...a solid blow strikes home, something snaps, and your foe collapses lifelessly."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "anticipated",
+    "nonlethal": "Having anticipated your enemy's over-extension, you deftly sidestep, delivering a smooth and fluid strike...",
+    "lethal": "...the enemy foolishly acts in anticipation of your next move, providing the perfect opportunity for you to react unexpectedly and easily end the contest."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "relentless",
+    "nonlethal": "You drive past your enemy's defenses with a relentless fervor...",
+    "lethal": "...through relentless determination, your enemy perishes under your repeated onslaught."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "charging",
+    "nonlethal": "A charging strike ruthlessly batters your opponent...",
+    "lethal": "...charged with all your strength, your stroke fells your enemy with a gruesome splat."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "dash",
+    "nonlethal": "Seizing the initiative you dash forward, letting your weapon sink into your foe...",
+    "lethal": "...closing in and striking in one fluid motion you collapse your enemy in front of you with a dash of finesse and flair"
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "grisly",
+    "nonlethal": "Your whipping blow hits with a grisly crack...",
+    "lethal": "...onlookers would grimace during this grisly execution."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "besiege",
+    "nonlethal": "You rain down a series of jabbing blows, besieging your adversary until one vicious shot lands...",
+    "lethal": "...having besieged your hapless enemy, you completely overwhelm them and end their struggle with life."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "downwards",
+    "nonlethal": "Like a whip, a long, theatrical swing strikes downwards into your enemy",
+    "lethal": "...you belt your victim with a violent downward swing, ending the exchange."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "leaps",
+    "nonlethal": "Using the strength in your whole body, you leap forward during this one effective blow...",
+    "lethal": "...you leap high, using momentum to bring your weapon down on your foe with enough force to finish them."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "slap",
+    "nonlethal": "What looks to be a light slap, actually knocks your opponent dangerously off-balance...",
+    "lethal": "...a heavy slap from the broad side of your weapon sends your foe spinning to their grave."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "shoves",
+    "nonlethal": "You shove your opponent's defenses aside and deliver a smack of a blow...",
+    "lethal": "...you're not sure which of your blows was the finisher, but this last strike shoves your opponent down like a bag of rocks."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "bewildering",
+    "nonlethal": "Stiff and stilted, your style bewilders your foe, allowing you to strike home with ease...",
+    "lethal": "...bewildering your adversary with an unbalanced attack, you watch them fall with an unsettling crack."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "pops",
+    "nonlethal": "A quick snap of your weapon results in an audible pop as it connects with your enemy...",
+    "lethal": "...this closing strike ends with a gruesome popping sound."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "betray",
+    "nonlethal": "Your foe's senses betray them as you whirl quickly and catch them from an unexpected direction...",
+    "lethal": "...your foe's ruptured and splintered body betrays them, and they expire messily before you."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "clever",
+    "nonlethal": "A clever jab slips right past your enemy's guard...",
+    "lethal": "...cleverly battering away your enemy's defenses, you finish off your foe with a hard swing to the vitals."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "rhythm",
+    "nonlethal": "Your pattern of pivots and parries immediately throws your opponent off rhythm, allowing your counterattack to strike true...",
+    "lethal": "...disrespecting the rhythm of combat you suddenly lash out and your weapon snatches your foe's life in a brutal collision."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "clash",
+    "nonlethal": "Like two clashing rams, your weapon impacts soundly against your opponents...",
+    "lethal": "...a loud clash stamps your roundhouse strike while utterly demolishing your foe."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "exploit",
+    "nonlethal": "You exploit a gap in the enemy's defenses to land a punishing weapon slap...",
+    "lethal": "...exploiting your knowledge of the enemy's anatomy, you land a finishing strike where they are most vulnerable."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "skillful",
+    "nonlethal": "A skillful swing strikes true with gratifying resolution...",
+    "lethal": "...a skillful swing slips past your enemy's guard and cracks them directly in the midsection."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "theatrical",
+    "nonlethal": "With theatrical flair you produce your weapon, seemingly from thin air, and smash it into your opponent...",
+    "lethal": "...with a theatrical flourish, you execute a flawless attack that ends this conflict."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "arrhythmic",
+    "nonlethal": "An arrhythmic yet effective blow surprises your opponent...",
+    "lethal": "...a deliberately arrhythmic swing of your weapon brings this contest to a close!"
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "comical",
+    "nonlethal": "As though actors in a comedy, your unwitting foe plays the part of the victim admirably...",
+    "lethal": "...the impact sends your foe sprawling comically like a thrown rag-doll."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "daredevil",
+    "nonlethal": "The temerity of your attack makes you seem the daredevil, your driving below showing no regard for your own safety...",
+    "lethal": "...ignoring your enemy's attack, you dive like a daredevil through their guard and land a legendary blow."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "impressive",
+    "nonlethal": "You deftly contort around your opponent's attack and land an impressive strike of your own...",
+    "lethal": "...having disabled your opponent with a series of impressive strikes, you leave them in a contorted heap."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "stagger",
+    "nonlethal": "Your staggered and hesitant steps throw your opponent's rhythm off just long enough for you to land a quick strike...",
+    "lethal": "...your opponent suddenly staggers, allowing you to easily bring home a finishing blow."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "reverberating",
+    "nonlethal": "You deliver a well-placed thrust, the force of it reverberating through your body...",
+    "lethal": "...they say what you do today reverberates throughout history. After that tremendous blow, you hope the saying is true."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "tricked",
+    "nonlethal": "Feinting left, you trick your opponent, who dodges straight into your strike from the right...",
+    "lethal": "...tricked into thinking you were open to attack, your opponent never saw the blow that finished them."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "thwack",
+    "nonlethal": "Your weighty strike hits with a resounding thwack...",
+    "lethal": "...a loud thwack echoes through the air, announcing your foe's deadly misstep."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "graceful",
+    "nonlethal": "In a single moment, your weapon decribes a graceful and unavoidable arc of destruction...",
+    "lethal": "...you sunder your opponent while gracefully and effortlessly avoiding the spray of viscera that exits the wound."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "smacks",
+    "nonlethal": "Your blow smacks your enemy like a boulder...",
+    "lethal": "...with a thunderous smack you put this enemy down for good."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "vicious",
+    "nonlethal": "A vicious blow strikes your enemy, ringing out like a weaponsmith's hammer...",
+    "lethal": "...you viciously aim the finishing blow, putting an end to this conflict with a splattering overhand swing."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "expert",
+    "nonlethal": "An expert swing pierces your enemy's defenses...",
+    "lethal": "...with a practiced form that any expert would be proud of, you end your opponent's life with grace."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "whacking",
+    "nonlethal": "With a whacking thud, your blow slams into your enemy...",
+    "lethal": "...a spinning strike connects with a loud whack, demolishing everything before it."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "shifty",
+    "nonlethal": "Your shifty footwork befuddles your foe, and you dance in to deliver a nasty strike...",
+    "lethal": "...your shifty moves create a moment of indecision in your foe, giving you the opportunity you need to finish them off with an unexpected lunge!"
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "violent",
+    "nonlethal": "You turn aside the enemy's weak attack and deliver a violent reprisal...",
+    "lethal": "...you drive into your foe's center without mercy, finishing them off with a violent killing blow."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "breach",
+    "nonlethal": "With practiced efficiency you breach your enemy's defenses...",
+    "lethal": "...you tactically breach their defenses and then deliver a swift, almost merciful, death."
+  },
+  {
+    "type": "blunt",
+    "style": "finesse",
+    "word": "playful",
+    "nonlethal": "Your almost playful movements strike a blow that is anything but childish...",
+    "lethal": "...you grab your foe and introduce them to your weapon, dropping them playfully like a broken toy."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "weighty",
+    "nonlethal": "The perfect imprint can be briefly seen where the weighty might of your blow landed...",
+    "lethal": "... your weighty haymaker forces your foe's unfortunate life from their body."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "barrage",
+    "nonlethal": "Your swift barrage of strikes unfolds your foe's defenses...",
+    "lethal": "...your attack becomes a blinding barrage of strikes and your opponent is unable to prevent their own devastation."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "thunderous",
+    "nonlethal": "Your swing collides with thunderous force...",
+    "lethal": "...destroying your opponent with a thunderous blow fills you with renewed vigor."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "crunch",
+    "nonlethal": "Your expertly executed swing hits with a satisfying crunching sound...",
+    "lethal": "...a grisly crunch echoes across the battlefield, announcing to all the winner of this fight."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "mighty",
+    "nonlethal": "A mighty overhand swing produces a loud crack as it smacks into your foe...",
+    "lethal": "...your mighty roundhouse crashes through your enemy's guard demolishing everything before it."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "fierce",
+    "nonlethal": "A fierce blow with the broad side of your weapon smacks into your enemy...",
+    "lethal": "...the stunning ferocity of your blow leaves your foe a brutalized wreck."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "punching",
+    "nonlethal": "A forceful lunge punches straight through your enemy's defenses...",
+    "lethal": "...your weapon punches home like a battering ram, ploughing deep into your opponent's expiring body."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "expulsion",
+    "nonlethal": "The visceral hit expels a trail of fluid from your unfortunate opponent...",
+    "lethal": "...a clean and powerful hit creates a fatal expulsion of viscera."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "pound",
+    "nonlethal": "Your heart begins to pound even faster as reverberations of your strike excites it...",
+    "lethal": "...you pound your enemy into the surface below and this outcome merely tips you into the edge of satisfaction."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "demolishing",
+    "nonlethal": "A demolishing blow careens into your enemy...",
+    "lethal": "...your blow settles this fight and demolishes any idea that this enemy could ever defeat you."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "uppercut",
+    "nonlethal": "The force of your uppercut physically lifts your opponent...",
+    "lethal": "...an explosive uppercut flips your opponent clean over and leaves them in a motionless heap."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "collision",
+    "nonlethal": "The quality of your weapon is tested with this brutal collision...",
+    "lethal": "...your attack connects in a ferocious collision, leaving your foe in an unrecognizable heap."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "snapping",
+    "nonlethal": "With a twist, you bring the full weight of your body snapping into your foe...",
+    "lethal": "...snapping your enemy's body with the intensity of your blows, you watch them crumble in front of you."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "bangs",
+    "nonlethal": "A banging punch of a blow strikes your enemy downwards...",
+    "lethal": "...your swing ends with a resounding bang that your opponent will never hear."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "bash",
+    "nonlethal": "A solid bash breaks through your opponent's guard...",
+    "lethal": "...you bash down, shattering something critical before your enemy dies without a sound."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "pulverizing",
+    "nonlethal": "You smash into your foe with a pulverizing force you weren't aware you possessed...",
+    "lethal": "...a gruesome slam leaves your enemy a pulverized wreck."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "brutal",
+    "nonlethal": "You swing a hook with your weapon and connect brutally...",
+    "lethal": "...the lack of resistance from your foe tells you your brutal strikes can slow."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "boom",
+    "nonlethal": "Two solid objects connect producing a booming clang...",
+    "lethal": "...so obvious is the strike you mouth the word \"BOOM\" before finishing your enemy with that exalted sound."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "bone-jarring",
+    "nonlethal": "A bone-jarring hit sends gratifying shockwaves vibrating up your arms...",
+    "lethal": "...your smash ends with a bone-jarring thud, leaving your enemy laid out in a contorted heap."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "overwhelm",
+    "nonlethal": "In a moment of savagery, you overwhelm your opponent with a brutal strike...",
+    "lethal": "...with a surge of vigor you overwhelm your opponent, striking blow after blow until there is no need to strike again."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "teeth-rattling",
+    "nonlethal": "Your swing slams into your foe with teeth-rattling force...",
+    "lethal": "...you catch your opponent hard with a teeth-rattling blow that will put an end to this fight."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "breaking",
+    "nonlethal": "Your heavy swing forces something to break off your opponent and snap past you through the air...",
+    "lethal": "...a crushing overhand strike leaves your foe both broken and defeated."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "brutish",
+    "nonlethal": "There is no defense your foe can muster agaist the brutish might of your attack...",
+    "lethal": "...even your most brutish of ancestors would be proud of how you just ended your foe's life."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "slams",
+    "nonlethal": "A well-executed reverse-swing slams into your opponent...",
+    "lethal": "...this opponent will not rise after your wide arching swing slams him down."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "batter",
+    "nonlethal": "You wind up and swing, as if playing a child's game, smiling as your strike batters your foe...",
+    "lethal": "...your brutal assault leaves your opponent beaten and battered."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "rams",
+    "nonlethal": "A swift ramming jab surprises your enemy...",
+    "lethal": "...the fight ends in a deadly ram to the vitals."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "ferocious",
+    "nonlethal": "A daring and ferocious swing crashes into your enemy...",
+    "lethal": "...with unrelenting ferocity, you batter your enemy to an unceremonious death."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "jarring",
+    "nonlethal": "Your quick jab lands with jarring force...",
+    "lethal": "...a winding swing connects, jarring your enemy's core and leaving them a broken wreck."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "tremendous",
+    "nonlethal": "A tremendously fortunate swing slams into your enemy with a heavy thwack...",
+    "lethal": "...with your foe now dead, onlookers would be inspired by the tremendous effort you have displayed today."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "throbbing",
+    "nonlethal": "A quick strike leaves your foe with a throbbing contusion...",
+    "lethal": "...you strike so hard that your arm starts throbbing, your foe is no longer able to feel anything at all."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "pummel",
+    "nonlethal": "As you pummel your opponent's defenses, a slanting strike plunges into their side...",
+    "lethal": "...you fiercely pummel your foe until their slack frame slumps to the ground."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "concussive",
+    "nonlethal": "You unleash a concussive blow which shakes your foe's core...",
+    "lethal": "...shifting your weight as you swing, you feel the concussive force of your attack flatten your enemy's form."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "cracks",
+    "nonlethal": "Your strike lands with a sharp cracking sound...",
+    "lethal": "...your fierce swing ends in a resounding crack. A sound you can be proud of."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "cascade",
+    "nonlethal": "Your cascade of attacks leave your foe caked in their own runny ichor...",
+    "lethal": "...the full weight of your weapon strikes in an unrelenting cascade leaving only a mixture of foul fluids and gore."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "pummeling",
+    "nonlethal": "You swing around, pummeling your enemy with wild abandon...",
+    "lethal": "...you relentlessly pummel your enemy, battering him to an untidy mass of history."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "drum",
+    "nonlethal": "A spinnting haymaker lands with a drumming bang...",
+    "lethal": "...andyour final blow lands with a sound like a giant's drumbeat, announcing your foe into the afterlife."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "lumbering",
+    "nonlethal": "Your lumbering blow lands with great force sending your opponent reeling...",
+    "lethal": "...a final lumbering strike smashes through your foe's defenses, bringing them down for good."
+  },
+  {
+    "type": "blunt",
+    "style": "power",
+    "word": "exaggerated",
+    "nonlethal": "Your whole body twists in an exaggerated arc as your weapon powers into your foe...",
+    "lethal": "...you wheel around with a massive, exaggerated swing, smashing your opponent out of the fight."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "heartless",
+    "nonlethal": "With heartless precision your projectile slams into your opponent...",
+    "lethal": "...your shot kills your enemy. While a heartless act, you know you've saved lives."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "stamp",
+    "nonlethal": "With a mighty smack, the enemy is left with the impression of your weapon stamped on their hide...",
+    "lethal": "...your foe's lifeless body slumps, forever bearing the indelible stamp of your ruthless attack."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "resounding",
+    "nonlethal": "Your savagely accurate shot lands with a resounding thump...",
+    "lethal": "...if your god judged you on this exact strike, you would receive resounding approval."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "speed",
+    "nonlethal": "Your shot carries your message of deadly intent with speed and accuracy.",
+    "lethal": "...judging the speed of your opponent's movements, you time the perfect shot. You can trust this opponent will be moving no more."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "butted",
+    "nonlethal": "As if butted by a great ram, your opponent recoils awkwardly from your shot...",
+    "lethal": "...with all your force behind it, the shot butts your opponent over, they will never stand again."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "rattled",
+    "nonlethal": "This unexpected strike from afar leaves your foe visibly rattled...",
+    "lethal": "...the force of the impact violently rattles your foe's core, rendering them unable to continue in any way."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "blindside",
+    "nonlethal": "Unseen, your shot blindsides your enemy, sending them into a reflexive spin...",
+    "lethal": "...attacking from your target's blindside, your shot descends upon them like the shadow of death."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "racked",
+    "nonlethal": "You are pleased to see your strike has racked your opponent into a moment of dysfunctionality...",
+    "lethal": "...racked by the results of your blow, your foe's body fails and then falls slowly downwards."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "blast",
+    "nonlethal": "Your foe overreacts to your shot as if they were blasted by a bucket of dreadful water...",
+    "lethal": "...the shot blasts through your foe, followed by a spray of innards."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "crunch",
+    "nonlethal": "The projectile barrels into its target with a solid, audible crunch...",
+    "lethal": "...there's a sickening crunch as the projectile impacts with deadly might."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "splinters",
+    "nonlethal": "Your shot connects and splinters pieces off your foe...",
+    "lethal": "...your shot causes comething in your opponent's body to splinter and break. This foe will die slowly."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "lob",
+    "nonlethal": "You intentionally lob your shot into an arc allowing your foe's momentum to cause most of the damage during collision...",
+    "lethal": "...a high lob comes down square on your target, they never saw their end coming."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "hammer",
+    "nonlethal": "Your shot hammers home, sending tremors through your target's body...",
+    "lethal": "...your shot hits this foe with the force of a carpenter's hammer, driving them to their death."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "crushes",
+    "nonlethal": "Traveling in a short arc, your shot lands in a crushing collision...",
+    "lethal": "...like an elite marksman, your shot crushes the life from your opponent instantly."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "sturdy",
+    "nonlethal": "You watch as your sturdy ammunition survives the impact with your opponent...",
+    "lethal": "...your opponent would have survived your shot if a sturdy defense was mounted a moment sooner, alas it was not."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "long-drawn",
+    "nonlethal": "With long, drawn-out and careful aim, you loose a shot that hits home...",
+    "lethal": "...the projectile flies in a long, drawn-out arc, perfectly incapacitating its target."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "crash",
+    "nonlethal": "A crashing sound tells you your strike has landed true...",
+    "lethal": "...your shot crashes down like a strike of lightning. Unlucky for your foe, as lightning may have presented a chance of survival."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "thud",
+    "nonlethal": "Your shot produces a solid but dull thud as it rams into your opponent...",
+    "lethal": "...your amazingly accurate shot causes a weighty thud that puts an end to this one."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "stinging",
+    "nonlethal": "The missile bucks and bounces off the target in a stinging impact...",
+    "lethal": "...with stinging force, your shot smacks the enemy over backward, ending their fight."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "clink",
+    "nonlethal": "Your careful aim is rewarded with a satisfying clink...",
+    "lethal": "...a high-pitched clink will echo in your opponent's ears as they journey to the afterlife."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "surprise",
+    "nonlethal": "The speed and accuracy of your ranged attack catches the enemy completely by surprise...",
+    "lethal": "...your opponent reacts with surprise and bewilderment as the unexpected power of your shot brings them down."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "well-aimed",
+    "nonlethal": "Your well-aimed shot splits all defenses and strikes home...",
+    "lethal": "...your well-aimed shot has precisely the intended effect, permanently removing your foe from this world."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "clipped",
+    "nonlethal": "At first it looks as though your shot will miss, but instead it clips your target with what appears to be a painful strike...",
+    "lethal": "...the shot clips your target and initially seems ineffective, but then they slowly collapse."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "curved",
+    "nonlethal": "Your shot takes an unusual curve in midair, before leaving a noticeable dent in your foe...",
+    "lethal": "...the missile's curved trajectory connects cleanly, impacting the innards of your foe and ending this fight."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "thump",
+    "nonlethal": "You lose track of your shot for a moment before hearing a satisfying thump...",
+    "lethal": "...your shot speeds forward like a ray of light, striking its target with a gruesome thump."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "powerful",
+    "nonlethal": "You hear a loud splat as your powerful shot smashes into your enemy...",
+    "lethal": "...a powerfully delivered shot rips through the open air and lays your enemy low."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "hiss",
+    "nonlethal": "The weapon hisses through the air like a snake, biting into its victim's center...",
+    "lethal": "...the hiss of your weapon speeding towards them is the last thing your opponent will ever hear."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "driving",
+    "nonlethal": "The missile stops dead as all force is transferred into your target, driving them backwards...",
+    "lethal": "...the missile rams home with deadly force, driving all life out of your target."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "tumbles",
+    "nonlethal": "The missile tumbles oddly end-over-end and ploughs into your hapless foe...",
+    "lethal": "...the missile transfers all of its force into the target, sending them tumbling down into a rigid mass."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "sling",
+    "nonlethal": "With a snap of your wrist you sling your projectile and it strikes home...",
+    "lethal": "...a faint warble precedes the flight of your projectile, which you sling with deadly accuracy, incapacitating your target."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "low arc",
+    "nonlethal": "The unusually low arc of your shot looks to land short of your foe before spinning upwards directly into a surprisingly solid strike. That was odd...",
+    "lethal": "...the low-arcing missile destroys your opponent's mobility and leaves them helpless against death."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "whistled",
+    "nonlethal": "Your shot fights against the thickness of the air, making an audible whistle before landing properly within your foe...",
+    "lethal": "...the shot whistles through the air, laying your enemy low with a telling blow."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "wallop",
+    "nonlethal": "Your shot packs a wallop as it strikes your foe and ricochets downwards...",
+    "lethal": "...your shot brings this fight to an end with a vicious wallop to your enemy's center."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "loud",
+    "nonlethal": "A mighty blast of a shot lands with a loud clap...",
+    "lethal": "...smashing your enemy with a loud crack forces your foe to go rigid."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "ring",
+    "nonlethal": "The missile's impact strikes with a resounding ring...",
+    "lethal": "...the solid impact sets your foe ringing like a bell that has tolled its last."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "heavy",
+    "nonlethal": "Your opponent overreacts to your shot as if hit by something far more heavy...",
+    "lethal": "...your shot forces your opponent to shudder before becoming stiff and dropping with a heavy thud."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "pelt",
+    "nonlethal": "With an audible whip, you pelt the enemy, and are rewarded with a grisly crack...",
+    "lethal": "...turning away as your projectile pelts the enemy, a sharp crack followed by a dull thud informs you they have fallen."
+  },
+  {
+    "type": "blunt",
+    "style": "range",
+    "word": "crack",
+    "nonlethal": "A sharp crack sounds as your shot penetrates what little defense your foe could muster...",
+    "lethal": "...the shot wrenches your foe around with a savage crack that sends them sprawling downwards."
+  },
+  { "type": "piercing",
+    "style": "finesse",
+    "word": "snapping",
+    "nonlethal": "Your snapping jab slips neatly in and out of your enemy...",
+    "lethal": "...with a surefooted lunge, your enemy snaps erect then crumples in reply."
+  },
+  { "type": "piercing",
+    "style": "finesse",
+    "word": "sudden",
+    "nonlethal": "A sudden strike takes your enemy unawares...",
+    "lethal": "...you run your enemy through with a sudden and deadly thrust." 
+  },
+  { 
+    "type": "piercing",
+    "style": "finesse",
+    "word": "twisting",
+    "nonlethal": "With a twisting maneuver, you roll your strike around your foe's defenses...",
+    "lethal": "...your twisting thrust catches your foe off-guard, allowing you to run him through with casual grace."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "elegant",
+    "nonlethal": "With a classic and elegant motion, your thrust slides into your foe's upper-half...",
+    "lethal": "...with an elegant twisting thrust, you bring your enemy's life to a climactic end."
+  },
+  { 
+    "type": "piercing",
+    "style": "finesse",
+    "word": "rapid",
+    "nonlethal": "You lurch in a rapid counter-attack, completely catching your foe off-guard...",
+    "lethal": "...the speed of combat increases and the now rapid exchange ends suddenly with your foe completely run through."
+  },
+{
+    "type": "piercing",
+    "style": "finesse",
+    "word": "deceptive",
+    "nonlethal": "Your foe fails to properly defend against your deceptive and clever stab...",
+    "lethal": "...a deceptive cross-step confounds your foe, allowing you to send a finishing stroke sliding home." 
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "dumbfounded",
+    "nonlethal": "Your weapon speed dumbfounds your foe's defenses as your strike lands...",
+    "lethal": "...your adversary is dumbfounded by the gaping wound you have delivered."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "needle",
+    "nonlethal": "Your weapon sticks your foe like a needle through cloth...",
+    "lethal": "...your jab leaves a mark no larger than a needle's pinpoint but the stain grows quickly and your opponent falls."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "scrappy",
+    "nonlethal": "A scrappy exchange ends with your opponent injured...",
+    "lethal": "...this scrappy exchange ends with you brutally stabbing your opponent until your thirst is quenched."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "jab",
+    "nonlethal": "A perfect, gore-filled circle is the result of your deadly jab...",
+    "lethal": "...the jab digs in at an awkward angle and your enemy collapses quite suddenly."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "nimble",
+    "nonlethal": "With a nimble side-step, you neatly stab your foe's center...",
+    "lethal": "...a nimble step flits you past your opponent's defenses, followed by a gruesome, conclusive shank."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "poetic",
+    "nonlethal": "Your vicious stab connects with almost poetic grace...",
+    "lethal": "...the poetic elegance of your strike should be taught to young warriors in training."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "spinning",
+    "nonlethal": "A spinning thrust winds past your opponent's defenses and strikes true...",
+    "lethal": "...spinning past danger, you end your foe's life with one final, masterful thrust."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "abrupt",
+    "nonlethal": "Your enemy is unprepared for the abrupt nature of your assault...",
+    "lethal": "...a brutally accurate stab causes your foe's movements to meet an abrupt end."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "twirl",
+    "nonlethal": "You twist your weapon as your thrust knocks your opponent's attack aside and strikes home in one twirling motion...",
+    "lethal": "...your weapon twirls forward, drilling violently into your opponent who begins to crumble in front of you."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "precise",
+    "nonlethal": "With a precise twist, you propel your weapon's tip through your enemy...",
+    "lethal": "...your precise movements plunge your weapon into a vital spot, leaving your foe a twitching mass."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "clever",
+    "nonlethal": "A clever underhand jab drives into your foe...",
+    "lethal": "...with a clever and balanced reverse-stroke you execute your opponent."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "dashing",
+    "nonlethal": "A gracefully dashing lunge strikes true...",
+    "lethal": "...at full speed, a mad dash propels you past your enemy's defenses and you rip the life from body."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "dramatic",
+    "nonlethal": "In a moment of dramatic showmanship, you force your opponent to lose sight of your weapon for one costly instant...",
+    "lethal": "...it takes three dramatic hitches of weapon to run your foe through, then all movement stops"
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "stylish",
+    "nonlethal": "In a stylish combination of finesse and power, you duck through the opposition and whip in an accurate strike...",
+    "lethal": "...with a sudden step you end your enemy’s life with admirable style."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "whisking",
+    "nonlethal": "Pure weapon speed sends your thrust whisking past your enemy’s defenses...",
+    "lethal": "...your weapon whisks past defenses and plunges easily into your foe as if being dipped in water."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "skewering",
+    "nonlethal": "The long point of your weapon pushes in and skewers your enemy…",
+    "lethal": "...your enemy is easily skewered, like a knitting needle through cotton."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "stick",
+    "nonlethal": "Your foe is distracted for a moment and you simply stick them with the pointy end...",
+    "lethal": "...with a well-studied lunge you stick your weapon clean through the enemy, bringing their struggle to a close."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "methodical",
+    "nonlethal": "Methodical in your approach, you pick at your foe’s defenses, stinging them with thrusts...",
+    "lethal": "...you dismantle your foe’s defenses with relentless and methodical persistence, creating an opening through which you finish them oﬀ for good."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "flitting",
+    "nonlethal": "An oﬀ-speed swing goes ﬂitting past your foe’s guard and hits...",
+    "lethal": "...a quick jab ﬂits past your foe’s defenses before slicing open vitals with a tearing whisk."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "snaky",
+    "nonlethal": "A snaky maneuver connects, scoring a hit for you and a gory wound for your foe...",
+    "lethal": "...you snake your upper body to avoid danger and slip your blade into the center of you foe. Only the gods know how you came up with that move."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "slippery",
+    "nonlethal": "Your point darts in and out of your opponent, as slippery as quicksilver, before they even realize they’ve been stabbed...",
+    "lethal": "...as slippery as an eel, you twist around your foe’s futile attacks and show them how it’s done, fatally skewering them half a dozen times."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "awkward",
+    "nonlethal": "Planting a false sense of superiority with awkward attacks and false openings, you watch as your foe walks into your waiting assault…",
+    "lethal": "...forcing your foe to defend from awkward angles leaves their center ﬂayed open for all to see."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "startling",
+    "nonlethal": "Your foe is startled by your unexpected weapon lunge...",
+    "lethal": "...startled by the suddenness and ferocity of your attack, your foe can raise no defense against your deadly strike."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "spring",
+    "nonlethal": "With a well-practiced spring, you thrust your strike past your enemy’s protections.",
+    "lethal": "...springing forward, you land at the edge of your foe’s vision. The last thing your enemy sees is the broad side of your weapon."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "delicate",
+    "nonlethal": "Although your weapon movement was delicate, the wound left behind is grisly...",
+    "lethal": "...the sudden disappearance of your weapon into the body of your foe is disquieting, until you rip your weapon free, and now it’s just messy."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "confounding",
+    "nonlethal": "A masterfully confounding maneuver leaves your foe’s defenses in shambles...",
+    "lethal": "...a series of bewildering movements confounds your enemy so much that they do not even oﬀer a defense against the attack that finishes them."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "flair",
+    "nonlethal": "With an almost casual ﬂair, you pass your enemy’s guard and land a quick blow...",
+    "lethal": "...finishing with a final ﬂourish of rapid blows, you leave your enemy filled with holes."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "elusive",
+    "nonlethal": "An elusive maneuver and shoulder shake catches your enemy unawares...",
+    "lethal": "...your counter-thrust eludes your foe’s guard, and tears right through many essential parts."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "fine-spun",
+    "nonlethal": "Like a tendril of fine-spun thread, a thin incision now marks your enemy...",
+    "lethal": "...you spin and weave your weapon like fine-spun cotton, leaving your opponent unprepared to defend against your last deadly blow."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "hooking",
+    "nonlethal": "You neatly hook the tip of your weapon in your opponent’s hide, then rip it sideways to tear a ragged gash...",
+    "lethal": "...the swooping lunge catches your foe, leaving them helpless and dying like a fish on a hook."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "arching",
+    "nonlethal": "Your arching thrust strikes home and rips into your opponent...",
+    "lethal": "...a final swift thrust arches in, stealing the life away from your opponent."
+  },
+  {
+    "type": "piercing",
+    "style": "finesse",
+    "word": "masterfully",
+    "nonlethal": "Your defense is masterfully maintained even as you release an accurate jab...",
+    "lethal": "...this challenge of combat is masterfully met by your skill and wit, you drive your weapon home and broadly smile."
+  },
+  { "type": "piercing",
+    "style": "power",
+    "word": "strength", 
+    "nonlethal": "You bash your foe's defenses aside with overwhelming strength, allowing your weapon to dig in without mercy...",
+    "lethal": "...seizing an opportunity to bypass your foe's guard, you focus all of your strength into a single, apocalyptic, finishing strike." 
+  },
+  { "type": "piercing",
+    "style": "power",
+    "word": "whooshing",
+    "nonlethal": "Your thrust whooshes towards your foe, a war-cry ending with a triumphant thud...",
+    "lethal": "...your arcing lunge cuts through the air with an ominous whoosh, connecting with force, and driving the life from your unfortunate foe."
+  },
+  { 
+    "type": "piercing",
+    "style": "power",
+    "word": "ramming",
+    "nonlethal": "A risky, hurtling lunge lands true, ramming your weapon into your enemy...",
+    "lethal": "...with a few powerful steps you ram your weapon into your foe's midsection, puncturing an irreparable hole."
+  },
+  { 
+    "type": "piercing",
+    "style": "power",
+    "word": "ghastly",
+    "nonlethal": "As you pull your thrust from your enemy's body, it leaves a small but ghastly and gore-filled wound...",
+    "lethal": "...like ghastly versions of a puppet your enemy's limbs go limp, then wiggle as you shake your weapon free."
+  },
+  { 
+    "type": "piercing",
+    "style": "power",
+    "word": "punctured",
+    "nonlethal": "In one concentrated thrust, you puncture your foe's defenses and body alike...",
+    "lethal": "...the momentous thrust leaves your enemy punctured and covering everything below it with its fluids."
+  },
+  { 
+    "type": "piercing",
+    "style": "power",
+    "word": "coiling",
+    "nonlethal": "Coiling tight, you spot your opening, unwinding all your ill intent upon your foe...",
+    "lethal": "...with a coiling feint, you draw your opponent in, parry, and deliver a death-dealing blow."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "gouge",
+    "nonlethal": "The tip of your weapon catches and tears a wicked gouge from the enemy's hide...",
+    "lethal": "...driving your weapon's point home, you wrench it up and out, tearing a terrible gouge that your opponent cannot hope to recover from."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "impacted ",
+    "nonlethal": "The focused power of your thrust inflicts an impacted wound...",
+    "lethal": "...you must brace yourself against the enemy to wrest your impacted weapon from their lifeless corpse."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "driving",
+    "nonlethal": "A driving series of quick strikes overwhelms your enemy's defenses...",
+    "lethal": "...an underhand strike drives in at a deadly angle, leaving your foe as dead as dead can be."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "penetrating",
+    "nonlethal": "The tip of your weapon penetrates your foe's defenses leaving a notable mark...",
+    "lethal": "...your sudden barbarous assault penetrates your enemy's defenses, culminating in a final, gruesome stab."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "unnerving",
+    "nonlethal": "With an unnerving thunk, your thrust slams into your opponent's body...",
+    "lethal": "...onlookers may find your eagerness to issue a deathblow unnerving, you however do not."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "bold",
+    "nonlethal": "A bold under-thrust slips past your enemy's defenses, and goes skewering into their lower half...",
+    "lethal": "...releasing the grip of your weapon was an instinctive and bold move, but because it landed deep into your foe, you knew it wouldn't go too far."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "ruinous",
+    "nonlethal": "With ruinous force you exact a heavy toll from your foe, punctuating their despair with your triumphant barb...",
+    "lethal": "...the enemy stands ruined before you, held up only until you reclaim your gore-stained weapon."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "vented ",
+    "nonlethal": "You vent your fury in a blinding assault, from which your foe loses ground and gains injury...",
+    "lethal": "...a series of jarring strikes leaves your adversary vented like a sieve, through which their soul drains slowly away."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "gruesome",
+    "nonlethal": "Your thunderous lancing strikes the enemy causing a gruesome burst of liquids...",
+    "lethal": "...you experience the gruesome sensation of your weapon sliding through your foe's viscera and puncturing vital organs."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "unstoppable",
+    "nonlethal": "You prove to your foe a well-executed roundhouse is unstoppable...",
+    "lethal": "...your unstoppable thrust smashes through the enemy's guard and ends their sorry life."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "peer",
+    "nonlethal": "This attack is without peer. All your target can do is twist at the last second to lessen the injury...",
+    "lethal": "...in a moment of perfection, your technique was peerless and both you and your dying foe know it was indefensible."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "tearing",
+    "nonlethal": "Te stab withdraws with an awful tearing sound...",
+    "lethal": "...with a herculean force, you drive your weapon forward until it tears through the back end of your foe."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "goring",
+    "nonlethal": "A heavy thrust slams home, goring deep into your foe...",
+    "lethal": "…you are like a bull with your weapon. You rise up and gore your opponent as if there was nothing more than a clumsy matador in front of you."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "lance",
+    "nonlethal": "Springing forward, you lance your weapon into your opponent’s midsection...",
+    "lethal": "Extracting your deeply lanced weapon leaves your foe a mangled copy of their former self."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "burst",
+    "nonlethal": "Surprised by your sudden burst of speed, your foe can only find the results of your quick strike...",
+    "lethal": "...heavy like a fallen mountain, your blow burst your opponent apart."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "jolt",
+    "nonlethal": "Simple and straight, your thrust strikes home, sending a jolt down the length of your weapon...",
+    "lethal": "...the reﬂexive jolt of your foe informs you of their passing well before they hit the ground."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "diving",
+    "nonlethal": "A thrust that begins high overhead, dives down past your enemy’s defense and hits hard...",
+    "lethal": "...a masterfully precise lunge dives directly into your opponent’s vitals."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "pierce",
+    "nonlethal": "With a sudden violent incursion, you leave your foe pierced and leaking…",
+    "lethal": "...the point of your weapon pierces ruinously through your foe, like a nail through an egg."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "energetic",
+    "nonlethal": "An energetic burst of movement overwhelms your opponent’s defenses...",
+    "lethal": "...using the full length of your weapon, you energetically thrust forward and land a mortal blow."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "run through",
+    "nonlethal": "...you leave a long raking injury to your foe after attempt to run them through.",
+    "lethal": "...your opponent’s eagerness leaves them run through on the point of your weapon."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "rips",
+    "nonlethal": "Your attack rips a small chunk from the underside of your foe...",
+    "lethal": "...you gouge your weapon through and rip back a mess of your opponent."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "stabbing",
+    "nonlethal": "With a confident forward step you send a thrust stabbing deep into your foe...",
+    "lethal": "...you punch the life from your foe with a powerful and precise stab."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "perforating",
+    "nonlethal": "Straight stabs bounce up and down the length of your foe, perforating their defenses with dozens of tiny nicks...",
+    "lethal": "...a fierce exchange ends with your foe a finished, perforated mess."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "shanking",
+    "nonlethal": "A daring slide thrust connects, shanking deep into your foe...",
+    "lethal": "...sweeping aside your foe’s guard, you end this struggle with a ferocious and gory shanking."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "aggressive",
+    "nonlethal": "Your enemy is caught oﬀ-guard by your aggressive assault...",
+    "lethal": "...your upsurge was both aggressive and sensible, proven by the collapse of your enemy."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "disquieting",
+    "nonlethal": "An expert jab lands with a disquieting thunk...",
+    "lethal": "...the sudden disappearance of your weapon into the body of your foe is disquieting, until you rip your weapon free, and now it’s just messy."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "thrusting",
+    "nonlethal": "A delicate shift knocks aside your enemy’s guard, allowing you to bring a stab thrusting home...",
+    "lethal": "...a quick, almost imperceptible thrust removes your enemy from this world."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "lunging",
+    "nonlethal": "A lunging stab entrenches into your foe...",
+    "lethal": "...leaving your feet in a lunge is typically deemed reckless, but considering your foe is dead, it could now be called eﬀective."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "eerie",
+    "nonlethal": "A vicious stab lands with an eerie, echoing ring...",
+    "lethal": "...an eerie snick at the end of your thrust tells you something vital has been severed and your opponent is about to die."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "spitted",
+    "nonlethal": "You slide your weapon through your opponent, leaving them momentarily spitted, before withdrawing it for your next attack...",
+    "lethal": "...a gurgle escapes as you leave your foe spitted like a wild boar."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "plow",
+    "nonlethal": "The weight of your entire body plows your weapon forward until it is submerged within your foe...",
+    "lethal": "...you let your foe plow forward, their own momentum leaving them dead on the point of your weapon."
+  },
+  {
+    "type": "piercing",
+    "style": "power",
+    "word": "transfix",
+    "nonlethal": "With a decisive lunge, you transfix one of your opponent’s extremities on the point of your weapon…",
+    "lethal": "...your foe can only gape and slowly expire as a single, devastating thrust, leaves them transfixed on your weapon."
+  },
+  { 
+    "type": "piercing",
+    "style": "range",
+    "word": "swift",
+    "nonlethal": "A swift snapshot darts past your foe's defenses and hits...",
+    "lethal": "...your missile seems to know exactly where it needs to go, bringing a swift end to your foe."
+  },
+  { 
+    "type": "piercing",
+    "style": "range",
+    "word": "precise ",
+    "nonlethal": "The circumstances around you demand a precision shot and you have just delivered one...",
+    "lethal": "...you watch as your shot lands precisely where you want; as expected, it kills your foe."
+  },
+  { 
+    "type": "piercing",
+    "style": "range",
+    "word": "bulls-eye",
+    "nonlethal": "Visualizing a bulls-eye upon your target, you let loose a shot that hits dead center...",
+    "lethal": "...choosing a vital area, your bulls-eye sends your target to the next world."
+  },
+  { 
+    "type": "piercing",
+    "style": "range",
+    "word": "lodged",
+    "nonlethal": "For a moment, your enemy doubles over, as your shot lodges in their midsection...",
+    "lethal": "...with force, your missile lodges deeply into your enemy's mangled corpse."
+  },
+  { 
+    "type": "piercing",
+    "style": "range",
+    "word": "sailing",
+    "nonlethal": "There is slight whoosh as your shot goes sailing towards the center of your foe...",
+    "lethal": "...as if guided by a rope, your shot sails straight and stills your target evermore."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "heaving",
+    "nonlethal": "You release a mighty exhale of breath, as if the heave would force more power behind your shot...",
+    "lethal": "...the terminal shot sends your victim heaving in a series of violent death-throes."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "silent",
+    "nonlethal": "Your shot slips silently towards your target, opening a painful-looking fissure on your foe...",
+    "lethal": "...as your shot descends upon your foe, you pause to watch them die in total silence."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "grit",
+    "nonlethal": "You doggedly line up your shot with grit and determination, letting fly only when you are certain of delivering a solid hit...",
+    "lethal": "...demonstrating true grit, you pull off a flawless shot from a bad angle, felling your foe with a victorious blow."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "whacked",
+    "nonlethal": "You clearly hear your missile make an audible whack as it connects with its target...",
+    "lethal": "...the projectile whacks your enemy so hard they are stunned for a second before realizing they are at life's end."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "plunging",
+    "nonlethal": "With expert precision, you send the missile plunging heinously into your foe...",
+    "lethal": "...true to form, your missile plunges catastrophically into the center of your opponent's vitals, ending their life."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "whizz",
+    "nonlethal": "The whizz of your missile parting the air ends with a satisfying smack...",
+    "lethal": "...the missile whizzes into your opponent with devastating speed, knocking them down once and for all."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "sings",
+    "nonlethal": "You loose your shot, its high-pitch song singing an aria of death...",
+    "lethal": "...your shot sings through the air, silencing itself and your foe simultaneously."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "solemn",
+    "nonlethal": "You take aim with solemn focus, releasing a timely shot that plunges into your target...",
+    "lethal": "...solemn in demeanor, you knew you would deliver death with this shot."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "drone",
+    "nonlethal": "The missile's low drone ceases abruptly as it lodges itself in your target...",
+    "lethal": "...in flight the missile drones as if uttering a prayer, the last rites for the poor unfortunate soul who stands in its path."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "nailed",
+    "nonlethal": "You nail your target with a perfectly timed shot...",
+    "lethal": "...with a gruesome thud, the missile becomes the last nail in your foe's coffin."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "pinpoint",
+    "nonlethal": "You pinpoint your opponent's weak spot, and loose a volley with uncanny accuracy...",
+    "lethal": "...the stinging pinpoint of your weapon seems to cause only a minor wound, but appearances bely the truth. Disabled, your foe comes crashing down."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "arcing",
+    "nonlethal": "you send an arcing shot through a small hole in your foe’s protections…",
+    "lethal": "...soaring over all, your shot arcs, then gracefully descends into the upper most part of your opponent."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "burrow",
+    "nonlethal": "Te spin in your projectile burrows a hole into your enemy, whipping ﬂuids and substances in every direction...",
+    "lethal": "...burrowing deep, the missile buries itself in your foe’s vital core, sending them to their grave."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "bolt",
+    "nonlethal": "Once loosed, the missile bolts towards your target and strikes them true...",
+    "lethal": "...like a bolt from the sky, your shot strikes down the enemy."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "fleeting",
+    "nonlethal": "You’re able to capitalize on a ﬂeeting opportunity, deftly sending your missile to strike your unsuspecting foe...",
+    "lethal": "...the target has but a ﬂeeting moment to realize they’ve been struck, before death embraces them."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "plunge",
+    "nonlethal": "Your shot’s delicate ﬂutter belies its true intensity; it harshly plunges into your target...",
+    "lethal": "...the missile plunges into your foe’s weakest spot, leaving them to tremble helplessly as they seize up and expire."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "startling",
+    "nonlethal": "Your foe is startled as your shot strikes them from out of nowhere...",
+    "lethal": "...the missile hits with startling eﬀectiveness, and the target immediately crumples in defeat."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "rupture",
+    "nonlethal": "Your shot is rewarded as the tiny nick you created ruptures in a grotesque spray...",
+    "lethal": "...your shot splashes into the midsection of your foe, then ruptures violently, spilling their innards in front of them."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "dispatch",
+    "nonlethal": "Once dispatched, the missile wastes no time, leaping straight to your target and inﬂicting injury...",
+    "lethal": "...with uncanny accuracy, your missile dispatches the enemy in the most direct way possible."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "serenity",
+    "nonlethal": "With the serenity that comes only from long practice, you calmly loose a ﬂawless shot...",
+    "lethal": "...with an unsettling serenity and composure you zero in on your target, killing them with this final shot."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "clean",
+    "nonlethal": "The instant you get a clean shot, you send your missile directly into your target...",
+    "lethal": "...you watch your shot go clean through your opponent and exit messily on the other end."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "darts",
+    "nonlethal": "The missile darts towards its target with surprising speed, leaving them no time to react...",
+    "lethal": "...the missile darts into your foe with an eerie thunk, heralding their passage into the afterlife."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "fickle",
+    "nonlethal": "...your fickle missile tangles fatally with your foe and the pair fall into a motionless heap.",
+    "lethal": "You let ﬂy your fickle missive, trusting it to deliver your message of torment and woe..."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "spiked",
+    "nonlethal": "The enemy cannot protect themselves from the ruthless spike of your well-aimed missile...",
+    "lethal": "...your missile spikes into your enemy landing where it would do the most harm. Evident by their prompt collapse."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "bite",
+    "nonlethal": "With the speed of a striking snake your shot bites into your prey...",
+    "lethal": "...your deadly shot bites into your foe’s vital core, putting this enemy down for good."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "quivering",
+    "nonlethal": "The missile quivers in ﬂight, eagerly anticipating the violent conclusion of the mission on which it has been sent...",
+    "lethal": "...the stem of your missile quivers as the spike embeds itself firmly and fatally in your foe."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "spear",
+    "nonlethal": "Your missile spears a neat wound in your foe’s side...",
+    "lethal": "...the missile spears clean through your foe and keeps going, carrying their life-force with it."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "impale",
+    "nonlethal": "With clever aim, you impale your shot into your foe...",
+    "lethal": "...the force of your shot impales your foe through the upper most part of their toppling body."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "slides",
+    "nonlethal": "Your shot smoothly slides home and your opponent lurches with surprise...",
+    "lethal": "...the missile slides neatly to a halt, lodging deep within your foe’s core and interrupting their life for good."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "hurtle",
+    "nonlethal": "The projectile hurtles toward your target, who reels from the unexpected assault...",
+    "lethal": "...the missile’s hurtling ﬂight is interrupted as it buries itself in your foe, snuffing out their life."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "bore",
+    "nonlethal": "Your missile bores into your target with an audible grating sound...",
+    "lethal": "...your well-placed shot bores through your opponent, stealing their life in an instant."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "crude",
+    "nonlethal": "The enemy’s crude attempt to dodge your shot is in vain...",
+    "lethal": "...the shot obliterates your foe, reducing them to naught but crude, earthly morsels for those who feed oﬀ the dead."
+  },
+  {
+    "type": "piercing",
+    "style": "range",
+    "word": "cruel",
+    "nonlethal": "The projectile’s cruel tip embeds itself harshly in your foe...",
+    "lethal": "...your missile pins part of your opponent to their own body, leaving them cruelly paralyzed and slowly expiring."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "carving",
+    "nonlethal": "With a casual twist of your wrist, you carve a notch out of your enemy...",
+    "lethal": "...when you are finished with your foe, he looks like nothing more than carved slabs of meat."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "slice",
+    "nonlethal": "You draw a straight line in your foe’s midsection with a neat weapon slice...",
+    "lethal": "...finishing your spin with a blow that slices completely through your opponent’s lower half, you know this fight is over."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "unorthodox",
+    "nonlethal": "Your unorthodox move lands unexpectedly and rakes against your foe...",
+    "lethal": "...your tactical maneuver takes all by surprise, allowing you to bring down your foe with an unorthodox chop."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "sly",
+    "nonlethal": "You lace your moves with sly deception before hitting your mark...",
+    "lethal": "...you bait your foe into falling on your weapon’s edge. You can’t help but issue a sly smile."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "downwards",
+    "nonlethal": "Like a spring rain your downward strokes fall unavoidable upon your enemy...",
+    "lethal": "...a single downwards stroke cuts your foe’s aspirations short."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "spin",
+    "nonlethal": "Easy and quick, you spin, letting your blade slide across your foe...",
+    "lethal": "...a final, unrepentant spin, leaves your opponent slumped."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "riposte",
+    "nonlethal": "You skillfully turn aside your opponent’s attack and riposte with lightning speed...",
+    "lethal": "...you riposte eﬀortlessly, parrying and striking in a ﬂuid motion that cuts your enemy down right where they stand."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "deflect",
+    "nonlethal": "With an audible clash, you deflect the incoming attack and create an opening for your own...",
+    "lethal": "...a solid deflection leaves your foe’s attack lying spent, and they are helpless to prevent your coup-de-grace."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "cavalier",
+    "nonlethal": "With a cavalier shrug, you prove your foe’s defenses are ineffective at best...",
+    "lethal": "...with a cavalier disregard for the danger facing you, you haughtily dispatch your foe with a slash and a smile."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "sleek",
+    "nonlethal": "Your strike leaves a wound slick with gore...",
+    "lethal": "...your weapon is now sleek with bright ﬂuids, as whatever you struck inside your foe was filled with gore."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "cunning",
+    "nonlethal": "Using a cunning underhand swing, you catch your opponent completely oﬀ-guard...",
+    "lethal": "...an amazing cunning riposte rips through your opponent, killing them instantly."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "tricky",
+    "nonlethal": "A tricky chop catches your enemy by surprise...",
+    "lethal": "...with a tricky pivot, you evade attacks, then cut your foe down with a powerful stroke."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "long",
+    "nonlethal": "Your blade tears open a long gash in your opponent’s side...",
+    "lethal": "...the long exchange of attacks and parries ends when you finally overcome your opponent’s defenses and deliver a decisive strike."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "grace",
+    "nonlethal": "Dropping low, then sweeping up with practiced grace, your blade slides across your opponent...",
+    "lethal": "...ﬂowing like water across your foe, the silent grace of your attack is followed by a faint gurgling."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "engraving",
+    "nonlethal": "Shifting your opponent’s weapon clockwise you engrave a crescent wound on your foe...",
+    "lethal": "...a sculptor of death, you leave your killing blow engraved on your foe forever."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "incision",
+    "nonlethal": "With finesse, you step around your opponent’s attack and administer a precise incision...",
+    "lethal": "...although it seems a minor incision, it neatly and finally disables your opponent."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "slanting",
+    "nonlethal": "Slanting your weapon, you feel minimal resistance as you run your blade across your enemy...",
+    "lethal": "...with a well-placed slanting strike you leave your opponent to collapse into a soulless husk."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "misleading",
+    "nonlethal": "With careful steps you mislead your foe, edging close enough to deliver a quick strike...",
+    "lethal": "...you mislead your foe into an early parry and, with a twist, cut under their defense with a fatal strike."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "dissect",
+    "nonlethal": "You ruthlessly dissect your foe’s defenses and inﬂict a grievous wound...",
+    "lethal": "...you coolly dissect your foe with impressive precision, rendering them dead before they drop."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "acrobatic",
+    "nonlethal": "You tumble acrobatically out of the way of your foe’s attack, coming up inside their guard to deliver a nimble slash...",
+    "lethal": "...you completely outmaneuver your foe with acrobatic style, eﬀortlessly step behind them and administer death."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "razor-thin",
+    "nonlethal": "Your slash leaves a long, razor-thin wound on your foe…",
+    "lethal": "...a razor-thin wound erupts with gore from the midsection of your enemy"
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "rive",
+    "nonlethal": "Your violent swing comes riving into your enemy, cutting a ruinous furrow...",
+    "lethal": "...you continue the momentum of your spin, giving your weapon the force to rive your foe into two portions."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "lacerating",
+    "nonlethal": "A fierce hit grates across your enemy, leaving lacerated wounds...",
+    "lethal": "...a whipping slash leaves a dividing laceration that begins to soak with dark substance."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "whipping",
+    "nonlethal": "A whipping roundhouse slice lops oﬀ a chunk of your enemy...",
+    "lethal": "...Your strike whips around into your foe, leaving them thrashing about in death’s grasp."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "dancing",
+    "nonlethal": "Your blade dances through the discord of battle, sliding across your foe like a performer across a stage...",
+    "lethal": "...with a delicate twist and turn you send your blade dancing towards your assailant, spilling their life before you."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "flitting",
+    "nonlethal": "A quick twist sends your strike ﬂiting over your enemy’s guard...",
+    "lethal": "...your wide-arching swing ﬂits past your enemy’s guard, neatly severing spirit from body."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "whirl",
+    "nonlethal": "You whirl your weapon high and bring it down in time to catch your opponent’s midsection...",
+    "lethal": "...Your enemy whirls awkwardly as you slice your way downwards, but there is no escape from death’s grip."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "swift",
+    "nonlethal": "A swift, advancing step leaves your enemy unable to defend against your attack...",
+    "lethal": "...a swift pivot brings you into the perfect position and you cut your enemy down with as much force as you can muster."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "blurs",
+    "nonlethal": "You sway back as your opponent’s attack blurs past, then step in and slice before they can withdraw...",
+    "lethal": "...seeing an opening in your enemy’s defense, your blade blurs in to capitalize on their mistake and end the exchange."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "slitting",
+    "nonlethal": "With a quick cut, you hew a slitting gash through your opponent...",
+    "lethal": "...a quick, expert slash, neatly slits open your opponent’s vitals."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "slash",
+    "nonlethal": "You step back as your enemy lunges, and with a quick snap you deliver a lightning slash...",
+    "lethal": "...your exacting attack slashes open your foe like a ruptured sack, spilling their innards for all to see."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "rend",
+    "nonlethal": "A fast, neat slash, rends open a surprisingly jagged wound...",
+    "lethal": "...your overhead strike ﬂows like quicksilver, rending open your foe from top to toe and bringing an end to the fight."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "agile",
+    "nonlethal": "With an agile swing, you cut a large chunk out of your enemy...",
+    "lethal": "...an agile maneuver places you in the perfect position to perform an execution."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "graceful",
+    "nonlethal": "You swing your weapon with a graceful arc of absolute surety and terrifying beauty and then plunge it into your foe...",
+    "lethal": "...so graceful was your finishing blow, that you feel the need to take a bow before your dying enemy"
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "sweeping",
+    "nonlethal": "A sweeping strike connects with the lower-half of your foe...",
+    "lethal": "...with your foe badly out-maneuvered, you have the time to take a wide-sweeping death blow."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "whorling",
+    "nonlethal": "A whorling chop whips across your enemy, leaving behind a stained mark...",
+    "lethal": "...your weapon shears straight through your enemy’s body with a whorling roundhouse of a strike."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "sever",
+    "nonlethal": "With a ﬂick of your wrist you reverse your cut halfway through, severing a V-shaped chunk...",
+    "lethal": "...displaying perfect technique, you execute an eﬀortless attack that neatly severs your enemy’s most critical area."
+  },
+  {
+    "type": "slashing",
+    "style": "finesse",
+    "word": "counterattack",
+    "nonlethal": "The enemy attacks with hesitation, and your counterattack whips across their exposed limb...",
+    "lethal": "...the enemy’s misstep is their undoing, providing ample time for your counterattack to strike them down."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "tearing",
+    "nonlethal": "Your swing rips and tears through your enemy with force...",
+    "lethal": "...a harsh slash tears through your enemy’s body, slicing messily through everything presented."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "splitting",
+    "nonlethal": "Your heavy swing lands with a sound like splitting wood...",
+    "lethal": "...a heavy overhand chop splits your enemy neatly into two halves."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "vigor",
+    "nonlethal": "You pursue your foe’s death with great vigor, chopping and slashing along the way...",
+    "lethal": "...with the fresh vigor of youth, you overwhelm your foe striking the life from all that stands before you."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "mauling",
+    "nonlethal": "A def cut slices into your enemy with mauling force...",
+    "lethal": "...your ruthless assault doesn’t end until there is nothing left of your foe but a mauled ruin."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "scything",
+    "nonlethal": "Scything through the air, your weapon intersects the enemy’s path and cuts deeply...",
+    "lethal": "...the scything blade chases down your opponent and nearly reaps their soul."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "flurry",
+    "nonlethal": "You assault your foe with a ﬂurry of powerful strikes, breaking their defenses and imparting a gory memento...",
+    "lethal": "...although your foe fights back with a ﬂurry of desperate blows, you bat each one aside and decisively cut them down."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "backswing",
+    "nonlethal": "Your swift backswing leaves a dark road across your enemy’s midsection...",
+    "lethal": "...the force of your backswing leaves you spackled with ﬂuid as your enemy falls."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "cleave",
+    "nonlethal": "A powerful strike cleaves through your foe’s feeble defenses...",
+    "lethal": "...with one mighty blow, you cleave your foe in twain."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "ripping",
+    "nonlethal": "A harsh ripping sound erupts from your foe’s body...",
+    "lethal": "...your strong swing rips completely through your enemy’s body, leaving him as dead as dead can be."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "shreds",
+    "nonlethal": "A harsh cut shreds a piece of your opponent into the air...",
+    "lethal": "...your foe now looks disfigured as you shred a thick layer of anatomy and watch it fall."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "shearing",
+    "nonlethal": "A deft swing cuts a shearing path across your enemy...",
+    "lethal": "...you raise up with a brutal uppercut stroke which shears your opponent into pieces."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "raking",
+    "nonlethal": "You pull your clinched weapon and it painfully rakes across your foe...",
+    "lethal": "...ends with your foe’s body so torn apart that it looks as if it had been raked over by some ravenous beast."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "weal",
+    "nonlethal": "Te chop of the weapon carves a crescent weal in your foe...",
+    "lethal": "...your foe succumbs to the gruesome weal inﬂicted by your weapon, toppling over like a felled tree."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "claw",
+    "nonlethal": "Your blade claws at your foe like a wild beast, opening a glistening wound...",
+    "lethal": "...animalistic rumbles escape your mouth as your weapon claws at your foe for the last time."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "stifling",
+    "nonlethal": "Sharp and sudden, your stifling onslaught cuts through your enemy before they can react...",
+    "lethal": "...creeping closer with each swing you stifle all attempts to mount a defense, splitting your opponent open with a final swing."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "devastating",
+    "nonlethal": "You slash and hack into your enemy with a devastating assault...",
+    "lethal": "...tired of playing around, you land a devastating blow that ends the contest."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "wet",
+    "nonlethal": "A swift slash rends through your foe with a ﬂeshy wet sound...",
+    "lethal": "...a mighty overhand swing ends your enemy’s existence and leaves your weapon wet with substance."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "jigsaw",
+    "nonlethal": "As your weapon bites deep your opponent twists, and the blade draws a jigsaw wound...",
+    "lethal": "...you raggedly drag your blade through the defeated enemy like a grisly jigsaw."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "might",
+    "nonlethal": "Te enemy cannot stand before the might of your blade...",
+    "lethal": "...you barge recklessly through your opponent’s guard, and lay them low with a mighty chop."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "onslaught",
+    "nonlethal": "You stagger your foe with an onslaught of strikes...",
+    "lethal": "...your onslaught wreaks havoc on your foe, leaving them sprawled out before you."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "hacking",
+    "nonlethal": "A simple overhead hack cuts into your opponent’s midsection...",
+    "lethal": "...your weapon viciously hacks through your enemy without much resistance."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "butchering",
+    "nonlethal": "Your enemy suffers a butchering chop from your powerful wide-arching swipe...",
+    "lethal": "...a heavy overhand swing ends in pure butchery."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "flaying",
+    "nonlethal": "The sharp edge of your weapon leaves a neat slice ﬂayed from your opponent...",
+    "lethal": "...you brutally ﬂay your opponent in one deadly stroke."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "gut",
+    "nonlethal": "While your attempt to gut your foe fails, the thin wet line across their midsection reveals the accuracy of your assault...",
+    "lethal": "...a pendulum across your opponent, your swing spills their innards in front of you."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "chop",
+    "nonlethal": "You hear a grisly snick as your chop lands...",
+    "lethal": "...with a butcher's chop you cleave your way to victory."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "savage",
+    "nonlethal": "After your brutal cut lands, you release a low and savage growl...",
+    "lethal": "...the pure savagery of your downward stoke ends with your foe laying in pieces."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "spine-chilling",
+    "nonlethal": "A hewing slice opens your foe with a spine-chilling snick...",
+    "lethal": "...your swing connects with a spine-chilling whack as it shears open your enemy’s center for all to see."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "hewing",
+    "nonlethal": "A hewing stroke breaks through your enemy’s guard and carves into their anatomy...",
+    "lethal": "...nothing could stop you from viciously hewing the life from your foe’s body."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "fearsome",
+    "nonlethal": "Your swing strikes through the air with a fearsome whirr...",
+    "lethal": "...a final cut ends this fight with you looking fearsome and intimidating!"
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "dashing",
+    "nonlethal": "Dashing your opponent’s guard aside, you hew into them violently...",
+    "lethal": "...using your weapon like a club, you thunder in and dash your opponent’s defenses aside to deliver a side-spliting blow."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "overhead",
+    "nonlethal": "Like sunlight slipping into a dark corner, your overhead swing slips between your foes defenses...",
+    "lethal": "...your attack screams down from overhead like a diving hawk, unavoidable and terrible in consequence."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "sunder",
+    "nonlethal": "A single, thundering strike, sunders your foe’s guard and doles out a wicked injury...",
+    "lethal": "...having delivered a powerful sundering strike, you anticipate your opponent’s defeat and step on past their collapsing form."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "vicious",
+    "nonlethal": "Te attempt to behead your foe fails, leaving behind a vicious gash instead.",
+    "lethal": "...a vicious riposte takes a limb oﬀ entirely and your opponent expires wondering where it went."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "decisive",
+    "nonlethal": "A decisive swing shears across your foe...",
+    "lethal": "...with a decisive spinning slash, you send your foe reeling into the afterlife."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "gashing",
+    "nonlethal": "Your swing dances across your enemy’s body, leaving a long, gashing wound...",
+    "lethal": "...slicing away your enemy’s life with an expanding gash of a wound."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "lop",
+    "nonlethal": "A powerful stroke connects, lopping oﬀ a small portion of your enemy...",
+    "lethal": "...your strong, finishing stroke, divides your enemy into two lopped parts."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "gory",
+    "nonlethal": "Your swing connects, leaving a gory wound in its wake...",
+    "lethal": "...your unkind assault ends with a final chop that leaves your foe covered in a gory mess."
+  },
+  {
+    "type": "slashing",
+    "style": "power",
+    "word": "ragged",
+    "nonlethal": "Te swift tip of your blade catches your enemy, tearing a ragged wound...",
+    "lethal": "...the conclusive attack rips gruesome, ragged chunks from your foe."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "whistling",
+    "nonlethal": "After a whistling thunk, your shot scores a penetrating hit into your enemy...",
+    "lethal": "...the shot whistles through the air before slicing through your enemy with a macabre snick."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "hissing",
+    "nonlethal": "Your shot tears through the air with a hissing shriek, before cutting a furrow in your enemy’s body...",
+    "lethal": "...your final shot lands with an almost caressing hiss, severing existence from your foe's body."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "soar",
+    "nonlethal": "Your weapon soars like a hunting bird, ripping into your foe with its talons...",
+    "lethal": "...your missile soars on wings of death, carrying your opponent to the afterlife."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "swoop",
+    "nonlethal": "Swooping and dipping, your missile shears a gory path across your foe...",
+    "lethal": "...with speed and precision, your shot swoops in and delivers lethal retribution to your enemy."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "masterful",
+    "nonlethal": "A masterfully timed shot lands with an almost pleasant-sounding thunk...",
+    "lethal": "...with a masterfully placed shot your foe quickly weakens from the injury and falls."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "quiet",
+    "nonlethal": "The quiet passing of your shot surprises your enemy as it sears across their side...",
+    "lethal": "...the accuracy of your shot allows your enemy only a single quiet grunt."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "sliding",
+    "nonlethal": "Sliding through the air with an indistinct hiss, your missile cuts a seeping wound...",
+    "lethal": "...your missile slides into your target, leaving them to die with a faint gurgle."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "shrieking",
+    "nonlethal": "Your powerful shot shrieks through the air, leaving a violent laceration in its wake...",
+    "lethal": "...shrieking swiftly towards its target, your missile silences the enemy."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "humming",
+    "nonlethal": "Your shot parts the air with a humming whine before carving a jagged wound in your foe...",
+    "lethal": "...you land a fatal shot. You can almost hear the hum that comes after the “Thump”."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "graze",
+    "nonlethal": "Launching your shot through the air you see a thin line form on your enemy as it grazes across them...",
+    "lethal": "...while your missile appears to only graze your enemy, the ﬂuid that spouts from them indicates the deadliness of your attack."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "chunk",
+    "nonlethal": "Your foe desperately tries to dodge your shot, but cannot avoid losing a nasty chunk of themselves...",
+    "lethal": "...your missile bites a critical chunk out of your opponent’s vitals, slamming home with solid ‘thunk’."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "kiss",
+    "nonlethal": "Te missile reaches out almost tenderly to kiss your foe with subtle sharpness, delivering a dreadful wound...",
+    "lethal": "...Among the whirlwind of carnage, your weapon delivers the cool kiss of death."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "shredding",
+    "nonlethal": "Your shot embarks towards your enemy, its razor edges shredding through them...",
+    "lethal": "...your shot shreds through your opponent, spackling them with their own substances as they die."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "spinning",
+    "nonlethal": "The spinning blade bites deep as it strikes home...",
+    "lethal": "...the missile spins in a deadly blur, hewing a gory trail across your opponent."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "twitter",
+    "nonlethal": "Your shot produces a short, high-pitched, twitter before striking your opponent...",
+    "lethal": "...the missile twitters like a songbird, lulling your foe to eternal sleep."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "almighty",
+    "nonlethal": "One of the almighty gods must be looking after this opponent as your shot hits but lands a few inches short of your mark...",
+    "lethal": "...the shot strikes home with an almighty thwack, expelling the very soul from its prey."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "cling",
+    "nonlethal": "Your projectile strikes and stubbornly clings to your opponent’s insides...",
+    "lethal": "...the moment your shot lands your enemy reaches toward you, hopelessly clinging to nothing as their life fades away."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "biting",
+    "nonlethal": "Te missile ﬂies as though seeking your enemy, biting into them with a satisfying thunk...",
+    "lethal": "...your well-aimed shot has precisely the intended eﬀect, permanently removing your foe from this world."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "chaotic",
+    "nonlethal": "Your shot tumbles chaotically, making it impossible for the hapless target to predict and evade its path...",
+    "lethal": "...in the chaotic fray of combat, your opponent failed to notice your projectile headed for them until it was too late."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "slipping",
+    "nonlethal": "Te missile slips daintily around your foe’s attempt at deflection, and lodges itself decisively in their body...",
+    "lethal": "...the savage snick of your shot sends your foe slipping into the silent sleep of death."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "bewildering",
+    "nonlethal": "Your shot produces a slash that bewilders your opponent of its origin...",
+    "lethal": "...left bewildered by how your shot pierced their defenses, your foe can oﬀer no further resistance to you or anyone else."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "sliver",
+    "nonlethal": "Your missile digs into your opponent like a thin sliver slipping beneath skin...",
+    "lethal": "...the missile shimmers in ﬂight, a sliver of death delivered unerringly to your dismayed victim."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "score",
+    "nonlethal": "The missile breezes past your foe, leaving a narrow score that slowly opens into a gory weal...",
+    "lethal": "...the weapon buries itself deep in your foe, settling the score with them once and for all"
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "whittle",
+    "nonlethal": "Your shots whittle down your foe’s defenses, slowly opening them to further attack...",
+    "lethal": "...with one last withering attack, your opponent is whittled down to size and succumbs to their wounds."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "trembling",
+    "nonlethal": "The missile trembles in ﬂight, eagerly anticipating the feast of carnage to come...",
+    "lethal": "...in the aftermath of the attack, the only motion is the trembling of your shot as it stands victorious upon the corpse of your enemy."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "controlled",
+    "nonlethal": "A masterfully-controlled shot arcs through the air, striking true...",
+    "lethal": "When you release your shot your breathing is controlled, balanced, and predictable, your opponent’s death however is none of these..."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "screaming",
+    "nonlethal": "The missile screams through the air with a keening whine and slams into the target...",
+    "lethal": "...the missile’s screaming ﬂight is interrupted as it connects with its target, and both collapse in a deadly embrace."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "skillful",
+    "nonlethal": "A skillfully placed shot rakes across your enemy...",
+    "lethal": "You ensure your shot will evade other barriers before skillfully releasing death onto your enemy."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "echo",
+    "nonlethal": "You echo the form of a master marksman, then deliver your shot with accuracy...",
+    "lethal": "...your shot was so perfectly administered, it echoes in the ears of the God of war."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "zipped",
+    "nonlethal": "Your shot zips past your foe, leaving a straight staining mark...",
+    "lethal": "...the projectile goes zipping across your foe with ruinous force, leaving them a hollow, defeated shell."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "thwack",
+    "nonlethal": "Your shot connects with an impressive thwacking sound...",
+    "lethal": "...your shot lands with a wet thwack, a sound only the god of death could love."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "wicked",
+    "nonlethal": "Te blade glints wickedly as it arcs to meet its victim...",
+    "lethal": "...the blade tears across them, leaving a wicked wound in its wake from which they cannot hope to recover."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "deft",
+    "nonlethal": "With a deft touch, you send a spinning shot whirling into your foe...",
+    "lethal": "...you deftly avoid obstacles as your shot stills your foe."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "whirring",
+    "nonlethal": "A soft whir of sound precedes a grisly thwack, as your shot slams home...",
+    "lethal": "...your shot parts the air with a sensual whir, before ending your enemy’s existence with a savage, tearing whack."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "glimmer",
+    "nonlethal": "With a malevolent glimmer, your shot displays a perfect arc on the way to its target...",
+    "lethal": "...the enemy tries desperately to evade your missile, but as it slams home it extinguishes their last glimmer of hope."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "intervenes",
+    "nonlethal": "Your shot lands, and cleverly intervenes with your opponent’s ill intentions...",
+    "lethal": "...the loosed weapon intervenes between two of the target’s vitals, severing their ability to stay alive."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "ricochet",
+    "nonlethal": "Your shot ricochets oﬀ your foe leaving a jagged and unclean wound...",
+    "lethal": "...fearless in the face of an improbable shot, you watch your well-placed ricochet end your target’s life."
+  },
+  {
+    "type": "slashing",
+    "style": "range",
+    "word": "fly",
+    "nonlethal": "Your shot ﬂies straight and true, striking your foe before they even realized it was on its way...",
+    "lethal": "...you let ﬂy your missile, and it carries your deadly intent unerringly to your foe."
+  }
+]
