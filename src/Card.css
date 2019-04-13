@@ -1,59 +1,61 @@
 .card {
   position: relative;
-  min-width: 380px;
-  min-height: 530px;
-  /*background-color: red;*/
-  background-image: url('./fire2.jpg');
+  margin: 1rem;
+  min-width: 23.7rem;
+  min-height: 33rem;
+  background-image: url("image/fire2.jpg");
   background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
-  box-shadow: 0px 0px 15px 2px rgba(0,0,0,0.2);
+  box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.2);
   border-radius: 10px;
 }
 
 .card__content-wrapper {
-  max-width: 350px;
-  min-height: 500px;
-  border: 1px solid rgba(0,0,0,0.3);
+  min-height: 31.25rem;
+  width: 21.8rem;
+  border: 1px solid rgba(0, 0, 0, 0.3);
   background-color: rgba(225, 186, 65, 0.91);
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
-  padding-top: 20px;
+  padding-top: 1.25rem;
 }
 .card__btn {
-  width: 30px;
-  height: 30px;
-  border: 1px solid rgba(0,0,0,0.5);
+  width: 1.875rem;
+  height: 1.875rem;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-bottom: 3px solid rgba(0, 0, 0, 0.5);
   display: flex;
   justify-content: center;
   align-items: center;
   cursor: pointer;
   user-select: none;
+  background-color: rgb(205, 169, 60);
 }
 .card__btn:active {
   transform: translateY(2px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 }
-.card__btn--active {
+.btn--selected {
   outline: 3px solid black;
 }
-.card__btn-new {
-  width: 20px;
-  height: 20px;
+.btn-new,
+.btn-close {
+  width: 1.25rem;
+  height: 1.25rem;
   position: absolute;
-  right: 0;
   top: 0;
 }
-.card__btn-close {
-  width: 20px;
-  height: 20px;
-  position: absolute;
+.btn-new {
+  right: 0;
+}
+.btn-close {
   left: 0;
-  top: 0;
 }
 .card__wrapper {
   width: 100%;
@@ -62,7 +64,6 @@
   align-items: center;
   justify-content: center;
   padding: 5px 0;
-  /*border: 1px solid green;*/
 }
 .card__name-wrapper {
   width: 100%;
@@ -70,7 +71,7 @@
   align-items: center;
   justify-content: center;
 }
-.card__name-edit {
+.name-edit {
   width: 100%;
   display: flex;
 }
@@ -79,28 +80,29 @@
   padding: 5px 0;
   text-align: center;
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 1.2rem;
 }
-.card__name-input {
+.name-input {
   width: 100%;
   padding: 5px 0;
-  margin: 0 5px 0 50px;
+  margin: 0 5px 0 3.125rem;
   text-align: center;
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 1.2rem;
 }
-.card__btn-save-name {
-  width: 60px;
+.btn-save-name {
+  width: 3.75rem;
 }
-.card__weapon-btn, .card__style-btn {
-  width: 50px;
-  height: 50px;
+.weapon-btn,
+.style-btn {
+  width: 3.125rem;
+  height: 3.125rem;
   margin-left: 10px;
 }
-.card__reload-btn {
-  width: 180px;
+.reload-btn {
+  width: 11.25rem;
 }
-.card__description-wrapper {
+.description-wrapper {
   flex-grow: 1;
   display: flex;
   flex-direction: column;
@@ -108,39 +110,47 @@
 }
 .card__description {
   width: 100%;
-  /*border: 1px solid blue;*/
   padding: 5px 10px;
   text-align: center;
 }
-.card__focus-word {
-  font-size: 1.1em;
+.focus-word {
+  font-size: 1.1rem;
   font-weight: bold;
   text-align: center;
 }
-.card__weapon-btn,
-.card__style-btn {
+.weapon-btn,
+.style-btn {
   background-repeat: no-repeat;
   background-size: 90%;
   background-position: center center;
 }
-.card__slashing {
-  background-image: url('./sword.svg');
+.slashing {
+  background-image: url("image/sword.svg");
 }
-.card__piercing {
-  background-image: url('./spear.svg');
+.piercing {
+  background-image: url("image/spear.svg");
 }
-.card__blunt {
-  background-image: url('./hammer.svg');
-}
-
-.card__power {
-  background-image: url('./power.svg');
+.blunt {
+  background-image: url("image/hammer.svg");
 }
 
-.card__finesse {
-  background-image: url('./finesse.svg');
+.power {
+  background-image: url("image/power.svg");
 }
 
-.card__range {
-  background-image: url('./bow.svg');
+.finesse {
+  background-image: url("image/finesse.svg");
+}
+
+.range {
+  background-image: url("image/bow.svg");
+}
+
+@media (max-width: 600px) {
+  html {
+    font-size: 10px;
+  }
+  .btn--selected {
+    outline: 1px solid black;
+  }
 }
