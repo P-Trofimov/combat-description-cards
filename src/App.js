@@ -126,8 +126,7 @@ class App extends Component {
             href="https://www.flaticon.com/authors/iconixar"
             title="iconixar"
           >
-            {" "}
-            iconixar{" "}
+            iconixar
           </a>
           ,
           <a
@@ -135,8 +134,7 @@ class App extends Component {
             href="https://www.flaticon.com/authors/those-icons"
             title="Those Icons"
           >
-            {" "}
-            Those Icons{" "}
+            Those Icons
           </a>
           ,
           <a
@@ -144,8 +142,7 @@ class App extends Component {
             href="https://www.freepik.com/"
             title="Freepik"
           >
-            {" "}
-            Freepik{" "}
+            Freepik
           </a>
           ,
           <a
@@ -153,8 +150,7 @@ class App extends Component {
             href="https://www.flaticon.com/authors/zlatko-najdenovski"
             title="Zlatko Najdenovski"
           >
-            {" "}
-            Zlatko Najdenovski{" "}
+            Zlatko Najdenovski
           </a>
           ,
           <a
@@ -162,8 +158,7 @@ class App extends Component {
             href="https://www.flaticon.com/authors/bqlqn"
             title="bqlqn"
           >
-            {" "}
-            bqlqn{" "}
+            bqlqn
           </a>
           from{" "}
           <a
@@ -171,11 +166,10 @@ class App extends Component {
             href="https://www.flaticon.com/"
             title="Flaticon"
           >
-            {" "}
-            www.flaticon.com{" "}
+            www.flaticon.com
           </a>
           <br />
-          licensed by{" "}
+          licensed by
           <a
             className="credits-link"
             href="http://creativecommons.org/licenses/by/3.0/"
@@ -183,8 +177,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            {" "}
-            CC 3.0 BY{" "}
+            CC 3.0 BY
           </a>
         </footer>
       </>
